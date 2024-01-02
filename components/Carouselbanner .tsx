@@ -39,7 +39,7 @@ function Carouselbanner({ movies }: Props) {
           </div>
         ))}
       </div>
-      {/* <div className="absolute inset-0 bg-gradient-to-b from-gray-200/0 via-gray-900/25 to bg-gray-300 dark:to-[#1a1c29]" /> */}
+      <div className="absolute inset-0 bg-gradient-to-b from-gray-200/0 via-gray-900/25 to-bg-gray-300 dark:to-[#1a1c29]" />
     </div>
   );
 }
